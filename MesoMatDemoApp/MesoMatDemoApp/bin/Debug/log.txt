@@ -1,0 +1,1267 @@
+2021-09-10 14:32:49,984 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the recieved command was: 125762.3203,125680.2813,125857.1135,125529.1050,125554.2759,126237.7162,125718.1322,125844.4662,125516.5233,125485.0802,125680.2813,126123.2945,125459.9370,125610.9471,125781.2675,125977.3897,125699.2039,125926.7192,125277.9491,126104.2443,125466.2219,125290.4831,125812.8589,125579.4568,125699.2039,125800.2205,125623.5477,125718.1322,125686.5882,125812.8589
+2021-09-10 14:32:50,014 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125762.3203
+2021-09-10 14:32:50,014 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125680.2813
+2021-09-10 14:32:50,014 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125857.1135
+2021-09-10 14:32:50,018 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125529.1050
+2021-09-10 14:32:50,018 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125554.2759
+2021-09-10 14:32:50,018 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126237.7162
+2021-09-10 14:32:50,018 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125718.1322
+2021-09-10 14:32:50,019 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125844.4662
+2021-09-10 14:32:50,019 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125516.5233
+2021-09-10 14:32:50,019 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125485.0802
+2021-09-10 14:32:50,019 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125680.2813
+2021-09-10 14:32:50,019 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126123.2945
+2021-09-10 14:32:50,019 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125459.9370
+2021-09-10 14:32:50,020 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125610.9471
+2021-09-10 14:32:50,020 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125781.2675
+2021-09-10 14:32:50,020 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125977.3897
+2021-09-10 14:32:50,020 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125699.2039
+2021-09-10 14:32:50,020 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125926.7192
+2021-09-10 14:32:50,020 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125277.9491
+2021-09-10 14:32:50,020 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126104.2443
+2021-09-10 14:32:50,021 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125466.2219
+2021-09-10 14:32:50,021 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125290.4831
+2021-09-10 14:32:50,021 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125812.8589
+2021-09-10 14:32:50,021 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125579.4568
+2021-09-10 14:32:50,021 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125699.2039
+2021-09-10 14:32:50,021 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125800.2205
+2021-09-10 14:32:50,022 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125623.5477
+2021-09-10 14:32:50,022 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125718.1322
+2021-09-10 14:32:50,022 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125686.5882
+2021-09-10 14:32:50,022 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125812.8589
+2021-09-10 14:32:50,022 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125762.3203
+2021-09-10 14:32:50,022 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 0 was determined to be 125762.3203, output is 125762.3203125
+2021-09-10 14:32:50,022 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125680.2813
+2021-09-10 14:32:50,023 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 1 was determined to be 125680.2813, output is 125680.28125
+2021-09-10 14:32:50,023 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125857.1135
+2021-09-10 14:32:50,023 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 2 was determined to be 125857.1135, output is 125857.1171875
+2021-09-10 14:32:50,023 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125529.1050
+2021-09-10 14:32:50,023 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 3 was determined to be 125529.1050, output is 125529.1015625
+2021-09-10 14:32:50,023 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125554.2759
+2021-09-10 14:32:50,024 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 4 was determined to be 125554.2759, output is 125554.2734375
+2021-09-10 14:32:50,024 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126237.7162
+2021-09-10 14:32:50,024 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 5 was determined to be 126237.7162, output is 126237.71875
+2021-09-10 14:32:50,024 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125718.1322
+2021-09-10 14:32:50,024 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 6 was determined to be 125718.1322, output is 125718.1328125
+2021-09-10 14:32:50,024 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125844.4662
+2021-09-10 14:32:50,024 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 7 was determined to be 125844.4662, output is 125844.46875
+2021-09-10 14:32:50,025 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125516.5233
+2021-09-10 14:32:50,025 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 8 was determined to be 125516.5233, output is 125516.5234375
+2021-09-10 14:32:50,025 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125485.0802
+2021-09-10 14:32:50,025 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 9 was determined to be 125485.0802, output is 125485.078125
+2021-09-10 14:32:50,025 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125680.2813
+2021-09-10 14:32:50,025 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 10 was determined to be 125680.2813, output is 125680.28125
+2021-09-10 14:32:50,025 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126123.2945
+2021-09-10 14:32:50,026 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 11 was determined to be 126123.2945, output is 126123.296875
+2021-09-10 14:32:50,026 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125459.9370
+2021-09-10 14:32:50,026 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 12 was determined to be 125459.9370, output is 125459.9375
+2021-09-10 14:32:50,026 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125610.9471
+2021-09-10 14:32:50,026 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 13 was determined to be 125610.9471, output is 125610.9453125
+2021-09-10 14:32:50,026 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125781.2675
+2021-09-10 14:32:50,026 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 14 was determined to be 125781.2675, output is 125781.265625
+2021-09-10 14:32:50,027 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125977.3897
+2021-09-10 14:32:50,027 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 15 was determined to be 125977.3897, output is 125977.390625
+2021-09-10 14:32:50,027 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125699.2039
+2021-09-10 14:32:50,027 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 16 was determined to be 125699.2039, output is 125699.203125
+2021-09-10 14:32:50,027 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125926.7192
+2021-09-10 14:32:50,027 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 17 was determined to be 125926.7192, output is 125926.71875
+2021-09-10 14:32:50,027 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125277.9491
+2021-09-10 14:32:50,028 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 18 was determined to be 125277.9491, output is 125277.9453125
+2021-09-10 14:32:50,028 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126104.2443
+2021-09-10 14:32:50,028 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 19 was determined to be 126104.2443, output is 126104.2421875
+2021-09-10 14:32:50,028 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125466.2219
+2021-09-10 14:32:50,028 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 20 was determined to be 125466.2219, output is 125466.21875
+2021-09-10 14:32:50,028 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125290.4831
+2021-09-10 14:32:50,028 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 21 was determined to be 125290.4831, output is 125290.484375
+2021-09-10 14:32:50,029 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125812.8589
+2021-09-10 14:32:50,029 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 22 was determined to be 125812.8589, output is 125812.859375
+2021-09-10 14:32:50,029 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125579.4568
+2021-09-10 14:32:50,029 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 23 was determined to be 125579.4568, output is 125579.453125
+2021-09-10 14:32:50,029 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125699.2039
+2021-09-10 14:32:50,029 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 24 was determined to be 125699.2039, output is 125699.203125
+2021-09-10 14:32:50,029 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125800.2205
+2021-09-10 14:32:50,030 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 25 was determined to be 125800.2205, output is 125800.21875
+2021-09-10 14:32:50,030 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125623.5477
+2021-09-10 14:32:50,030 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 26 was determined to be 125623.5477, output is 125623.546875
+2021-09-10 14:32:50,030 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125718.1322
+2021-09-10 14:32:50,030 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 27 was determined to be 125718.1322, output is 125718.1328125
+2021-09-10 14:32:50,030 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125686.5882
+2021-09-10 14:32:50,030 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 28 was determined to be 125686.5882, output is 125686.5859375
+2021-09-10 14:32:50,031 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125812.8589
+2021-09-10 14:32:50,031 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 29 was determined to be 125812.8589, output is 125812.859375
+2021-09-10 14:32:50,031 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the tryAgain flag was successfully set to false
+2021-09-10 14:32:50,031 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-09-10 14:32:53,033 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-09-10 14:32:53,033 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-09-10 14:32:55,962 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the recieved command was: 125990.0637,125648.7563,125447.3692,125793.9022,125140.2403,126040.7852,125547.9822,125497.6556,125800.2205,125844.4662,125768.6354,125478.7935,125699.2039,126059.8162,125680.2813,125522.8139,125221.5771,125844.4662,125573.1606,126135.9978,125585.7536,125655.0601,125604.6478,125497.6556,125636.1507,125598.3491,125692.8958,125926.7192,125359.4647,126047.1282
+2021-09-10 14:32:55,963 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125990.0637
+2021-09-10 14:32:55,963 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125648.7563
+2021-09-10 14:32:55,963 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125447.3692
+2021-09-10 14:32:55,963 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125793.9022
+2021-09-10 14:32:55,963 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125140.2403
+2021-09-10 14:32:55,964 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126040.7852
+2021-09-10 14:32:55,964 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125547.9822
+2021-09-10 14:32:55,964 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125497.6556
+2021-09-10 14:32:55,964 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125800.2205
+2021-09-10 14:32:55,964 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125844.4662
+2021-09-10 14:32:55,964 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125768.6354
+2021-09-10 14:32:55,964 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125478.7935
+2021-09-10 14:32:55,965 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125699.2039
+2021-09-10 14:32:55,965 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126059.8162
+2021-09-10 14:32:55,965 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125680.2813
+2021-09-10 14:32:55,965 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125522.8139
+2021-09-10 14:32:55,965 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125221.5771
+2021-09-10 14:32:55,965 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125844.4662
+2021-09-10 14:32:55,965 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125573.1606
+2021-09-10 14:32:55,966 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126135.9978
+2021-09-10 14:32:55,966 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125585.7536
+2021-09-10 14:32:55,966 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125655.0601
+2021-09-10 14:32:55,966 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125604.6478
+2021-09-10 14:32:55,966 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125497.6556
+2021-09-10 14:32:55,966 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125636.1507
+2021-09-10 14:32:55,967 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125598.3491
+2021-09-10 14:32:55,967 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125692.8958
+2021-09-10 14:32:55,967 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125926.7192
+2021-09-10 14:32:55,967 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125359.4647
+2021-09-10 14:32:55,967 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126047.1282
+2021-09-10 14:32:55,967 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125990.0637
+2021-09-10 14:32:55,967 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 0 was determined to be 125990.0637, output is 125990.0625
+2021-09-10 14:32:55,968 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125648.7563
+2021-09-10 14:32:55,968 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 1 was determined to be 125648.7563, output is 125648.7578125
+2021-09-10 14:32:55,968 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125447.3692
+2021-09-10 14:32:55,968 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 2 was determined to be 125447.3692, output is 125447.3671875
+2021-09-10 14:32:55,968 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125793.9022
+2021-09-10 14:32:55,968 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 3 was determined to be 125793.9022, output is 125793.8984375
+2021-09-10 14:32:55,968 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125140.2403
+2021-09-10 14:32:55,969 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 4 was determined to be 125140.2403, output is 125140.2421875
+2021-09-10 14:32:55,969 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126040.7852
+2021-09-10 14:32:55,969 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 5 was determined to be 126040.7852, output is 126040.7890625
+2021-09-10 14:32:55,969 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125547.9822
+2021-09-10 14:32:55,969 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 6 was determined to be 125547.9822, output is 125547.984375
+2021-09-10 14:32:55,969 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125497.6556
+2021-09-10 14:32:55,970 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 7 was determined to be 125497.6556, output is 125497.65625
+2021-09-10 14:32:55,970 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125800.2205
+2021-09-10 14:32:55,970 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 8 was determined to be 125800.2205, output is 125800.21875
+2021-09-10 14:32:55,970 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125844.4662
+2021-09-10 14:32:55,970 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 9 was determined to be 125844.4662, output is 125844.46875
+2021-09-10 14:32:55,970 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125768.6354
+2021-09-10 14:32:55,971 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 10 was determined to be 125768.6354, output is 125768.6328125
+2021-09-10 14:32:55,971 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125478.7935
+2021-09-10 14:32:55,971 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 11 was determined to be 125478.7935, output is 125478.796875
+2021-09-10 14:32:55,971 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125699.2039
+2021-09-10 14:32:55,971 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 12 was determined to be 125699.2039, output is 125699.203125
+2021-09-10 14:32:55,971 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126059.8162
+2021-09-10 14:32:55,971 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 13 was determined to be 126059.8162, output is 126059.8125
+2021-09-10 14:32:55,972 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125680.2813
+2021-09-10 14:32:55,972 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 14 was determined to be 125680.2813, output is 125680.28125
+2021-09-10 14:32:55,972 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125522.8139
+2021-09-10 14:32:55,972 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 15 was determined to be 125522.8139, output is 125522.8125
+2021-09-10 14:32:55,972 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125221.5771
+2021-09-10 14:32:55,973 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 16 was determined to be 125221.5771, output is 125221.578125
+2021-09-10 14:32:55,973 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125844.4662
+2021-09-10 14:32:55,973 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 17 was determined to be 125844.4662, output is 125844.46875
+2021-09-10 14:32:55,973 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125573.1606
+2021-09-10 14:32:55,973 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 18 was determined to be 125573.1606, output is 125573.1640625
+2021-09-10 14:32:55,973 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126135.9978
+2021-09-10 14:32:55,974 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 19 was determined to be 126135.9978, output is 126136
+2021-09-10 14:32:55,974 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125585.7536
+2021-09-10 14:32:55,974 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 20 was determined to be 125585.7536, output is 125585.75
+2021-09-10 14:32:55,974 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125655.0601
+2021-09-10 14:32:55,974 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 21 was determined to be 125655.0601, output is 125655.0625
+2021-09-10 14:32:55,975 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125604.6478
+2021-09-10 14:32:55,975 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 22 was determined to be 125604.6478, output is 125604.6484375
+2021-09-10 14:32:55,975 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125497.6556
+2021-09-10 14:32:55,975 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 23 was determined to be 125497.6556, output is 125497.65625
+2021-09-10 14:32:55,975 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125636.1507
+2021-09-10 14:32:55,975 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 24 was determined to be 125636.1507, output is 125636.1484375
+2021-09-10 14:32:55,976 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125598.3491
+2021-09-10 14:32:55,976 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 25 was determined to be 125598.3491, output is 125598.3515625
+2021-09-10 14:32:55,976 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125692.8958
+2021-09-10 14:32:55,976 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 26 was determined to be 125692.8958, output is 125692.8984375
+2021-09-10 14:32:55,976 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125926.7192
+2021-09-10 14:32:55,976 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 27 was determined to be 125926.7192, output is 125926.71875
+2021-09-10 14:32:55,976 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125359.4647
+2021-09-10 14:32:55,977 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 28 was determined to be 125359.4647, output is 125359.4609375
+2021-09-10 14:32:55,977 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126047.1282
+2021-09-10 14:32:55,977 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 29 was determined to be 126047.1282, output is 126047.125
+2021-09-10 14:32:55,977 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the tryAgain flag was successfully set to false
+2021-09-10 14:32:55,977 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-09-10 14:32:58,978 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-09-10 14:32:58,978 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-09-10 14:33:01,941 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the recieved command was: 125876.0892,125876.0892,125667.6694,125434.8039,125503.9442,125901.3991,125774.9512,125863.4381,125478.7935,125497.6556,125686.5882,125579.4568,125547.9822,125895.0707,125547.9822,125277.9491,125825.4999,125466.2219,125838.1435,125002.8331,125800.2205,125415.9606,126009.0795,125585.7536,126205.9116,125819.1791,125699.2039,125806.5394,125977.3897,126072.5068
+2021-09-10 14:33:01,942 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125876.0892
+2021-09-10 14:33:01,942 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125876.0892
+2021-09-10 14:33:01,942 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125667.6694
+2021-09-10 14:33:01,942 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125434.8039
+2021-09-10 14:33:01,942 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125503.9442
+2021-09-10 14:33:01,942 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125901.3991
+2021-09-10 14:33:01,942 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125774.9512
+2021-09-10 14:33:01,943 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125863.4381
+2021-09-10 14:33:01,943 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125478.7935
+2021-09-10 14:33:01,943 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125497.6556
+2021-09-10 14:33:01,943 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125686.5882
+2021-09-10 14:33:01,943 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125579.4568
+2021-09-10 14:33:01,943 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125547.9822
+2021-09-10 14:33:01,944 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125895.0707
+2021-09-10 14:33:01,944 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125547.9822
+2021-09-10 14:33:01,944 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125277.9491
+2021-09-10 14:33:01,944 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125825.4999
+2021-09-10 14:33:01,944 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125466.2219
+2021-09-10 14:33:01,944 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125838.1435
+2021-09-10 14:33:01,944 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125002.8331
+2021-09-10 14:33:01,944 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125800.2205
+2021-09-10 14:33:01,945 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125415.9606
+2021-09-10 14:33:01,945 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126009.0795
+2021-09-10 14:33:01,945 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125585.7536
+2021-09-10 14:33:01,945 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126205.9116
+2021-09-10 14:33:01,946 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125819.1791
+2021-09-10 14:33:01,946 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125699.2039
+2021-09-10 14:33:01,946 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125806.5394
+2021-09-10 14:33:01,946 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125977.3897
+2021-09-10 14:33:01,946 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126072.5068
+2021-09-10 14:33:01,946 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125876.0892
+2021-09-10 14:33:01,946 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 0 was determined to be 125876.0892, output is 125876.0859375
+2021-09-10 14:33:01,947 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125876.0892
+2021-09-10 14:33:01,947 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 1 was determined to be 125876.0892, output is 125876.0859375
+2021-09-10 14:33:01,947 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125667.6694
+2021-09-10 14:33:01,947 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 2 was determined to be 125667.6694, output is 125667.671875
+2021-09-10 14:33:01,947 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125434.8039
+2021-09-10 14:33:01,947 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 3 was determined to be 125434.8039, output is 125434.8046875
+2021-09-10 14:33:01,947 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125503.9442
+2021-09-10 14:33:01,948 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 4 was determined to be 125503.9442, output is 125503.9453125
+2021-09-10 14:33:01,948 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125901.3991
+2021-09-10 14:33:01,948 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 5 was determined to be 125901.3991, output is 125901.3984375
+2021-09-10 14:33:01,948 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125774.9512
+2021-09-10 14:33:01,948 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 6 was determined to be 125774.9512, output is 125774.953125
+2021-09-10 14:33:01,948 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125863.4381
+2021-09-10 14:33:01,948 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 7 was determined to be 125863.4381, output is 125863.4375
+2021-09-10 14:33:01,949 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125478.7935
+2021-09-10 14:33:01,949 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 8 was determined to be 125478.7935, output is 125478.796875
+2021-09-10 14:33:01,949 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125497.6556
+2021-09-10 14:33:01,949 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 9 was determined to be 125497.6556, output is 125497.65625
+2021-09-10 14:33:01,949 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125686.5882
+2021-09-10 14:33:01,949 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 10 was determined to be 125686.5882, output is 125686.5859375
+2021-09-10 14:33:01,949 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125579.4568
+2021-09-10 14:33:01,949 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 11 was determined to be 125579.4568, output is 125579.453125
+2021-09-10 14:33:01,950 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125547.9822
+2021-09-10 14:33:01,950 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 12 was determined to be 125547.9822, output is 125547.984375
+2021-09-10 14:33:01,950 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125895.0707
+2021-09-10 14:33:01,950 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 13 was determined to be 125895.0707, output is 125895.0703125
+2021-09-10 14:33:01,950 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125547.9822
+2021-09-10 14:33:01,950 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 14 was determined to be 125547.9822, output is 125547.984375
+2021-09-10 14:33:01,950 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125277.9491
+2021-09-10 14:33:01,951 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 15 was determined to be 125277.9491, output is 125277.9453125
+2021-09-10 14:33:01,951 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125825.4999
+2021-09-10 14:33:01,951 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 16 was determined to be 125825.4999, output is 125825.5
+2021-09-10 14:33:01,951 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125466.2219
+2021-09-10 14:33:01,951 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 17 was determined to be 125466.2219, output is 125466.21875
+2021-09-10 14:33:01,951 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125838.1435
+2021-09-10 14:33:01,952 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 18 was determined to be 125838.1435, output is 125838.140625
+2021-09-10 14:33:01,952 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125002.8331
+2021-09-10 14:33:01,952 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 19 was determined to be 125002.8331, output is 125002.8359375
+2021-09-10 14:33:01,952 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125800.2205
+2021-09-10 14:33:01,952 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 20 was determined to be 125800.2205, output is 125800.21875
+2021-09-10 14:33:01,952 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125415.9606
+2021-09-10 14:33:01,952 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 21 was determined to be 125415.9606, output is 125415.9609375
+2021-09-10 14:33:01,952 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126009.0795
+2021-09-10 14:33:01,953 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 22 was determined to be 126009.0795, output is 126009.078125
+2021-09-10 14:33:01,953 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125585.7536
+2021-09-10 14:33:01,953 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 23 was determined to be 125585.7536, output is 125585.75
+2021-09-10 14:33:01,953 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126205.9116
+2021-09-10 14:33:01,953 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 24 was determined to be 126205.9116, output is 126205.9140625
+2021-09-10 14:33:01,953 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125819.1791
+2021-09-10 14:33:01,953 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 25 was determined to be 125819.1791, output is 125819.1796875
+2021-09-10 14:33:01,954 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125699.2039
+2021-09-10 14:33:01,954 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 26 was determined to be 125699.2039, output is 125699.203125
+2021-09-10 14:33:01,954 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125806.5394
+2021-09-10 14:33:01,954 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 27 was determined to be 125806.5394, output is 125806.5390625
+2021-09-10 14:33:01,954 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125977.3897
+2021-09-10 14:33:01,954 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 28 was determined to be 125977.3897, output is 125977.390625
+2021-09-10 14:33:01,954 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126072.5068
+2021-09-10 14:33:01,955 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 29 was determined to be 126072.5068, output is 126072.5078125
+2021-09-10 14:33:01,955 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the tryAgain flag was successfully set to false
+2021-09-10 14:33:01,955 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-09-10 14:33:04,956 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-09-10 14:33:04,959 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-09-10 14:33:07,918 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the recieved command was: 125648.7563,126129.6458,125667.6694,126034.4428,125359.4647,125585.7536,125592.0510,125876.0892,125579.4568,125907.7282,125895.0707,125623.5477,125806.5394,125346.9170,125227.8382,125680.2813,125648.7563,125831.8214,125939.3830,126288.6368,125901.3991,125177.7673,125585.7536,125579.4568,126059.8162,126123.2945,125529.1050,125730.7542,125503.9442,125838.1435
+2021-09-10 14:33:07,919 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125648.7563
+2021-09-10 14:33:07,919 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126129.6458
+2021-09-10 14:33:07,919 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125667.6694
+2021-09-10 14:33:07,919 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126034.4428
+2021-09-10 14:33:07,920 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125359.4647
+2021-09-10 14:33:07,920 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125585.7536
+2021-09-10 14:33:07,920 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125592.0510
+2021-09-10 14:33:07,920 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125876.0892
+2021-09-10 14:33:07,920 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125579.4568
+2021-09-10 14:33:07,920 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125907.7282
+2021-09-10 14:33:07,920 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125895.0707
+2021-09-10 14:33:07,921 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125623.5477
+2021-09-10 14:33:07,921 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125806.5394
+2021-09-10 14:33:07,921 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125346.9170
+2021-09-10 14:33:07,921 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125227.8382
+2021-09-10 14:33:07,921 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125680.2813
+2021-09-10 14:33:07,921 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125648.7563
+2021-09-10 14:33:07,921 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125831.8214
+2021-09-10 14:33:07,922 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125939.3830
+2021-09-10 14:33:07,922 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126288.6368
+2021-09-10 14:33:07,922 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125901.3991
+2021-09-10 14:33:07,922 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125177.7673
+2021-09-10 14:33:07,922 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125585.7536
+2021-09-10 14:33:07,922 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125579.4568
+2021-09-10 14:33:07,923 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126059.8162
+2021-09-10 14:33:07,923 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126123.2945
+2021-09-10 14:33:07,923 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125529.1050
+2021-09-10 14:33:07,923 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125730.7542
+2021-09-10 14:33:07,923 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125503.9442
+2021-09-10 14:33:07,923 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125838.1435
+2021-09-10 14:33:07,923 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125648.7563
+2021-09-10 14:33:07,924 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 0 was determined to be 125648.7563, output is 125648.7578125
+2021-09-10 14:33:07,924 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126129.6458
+2021-09-10 14:33:07,924 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 1 was determined to be 126129.6458, output is 126129.6484375
+2021-09-10 14:33:07,924 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125667.6694
+2021-09-10 14:33:07,924 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 2 was determined to be 125667.6694, output is 125667.671875
+2021-09-10 14:33:07,924 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126034.4428
+2021-09-10 14:33:07,924 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 3 was determined to be 126034.4428, output is 126034.4453125
+2021-09-10 14:33:07,925 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125359.4647
+2021-09-10 14:33:07,925 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 4 was determined to be 125359.4647, output is 125359.4609375
+2021-09-10 14:33:07,925 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125585.7536
+2021-09-10 14:33:07,925 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 5 was determined to be 125585.7536, output is 125585.75
+2021-09-10 14:33:07,925 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125592.0510
+2021-09-10 14:33:07,925 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 6 was determined to be 125592.0510, output is 125592.0546875
+2021-09-10 14:33:07,925 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125876.0892
+2021-09-10 14:33:07,926 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 7 was determined to be 125876.0892, output is 125876.0859375
+2021-09-10 14:33:07,926 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125579.4568
+2021-09-10 14:33:07,926 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 8 was determined to be 125579.4568, output is 125579.453125
+2021-09-10 14:33:07,926 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125907.7282
+2021-09-10 14:33:07,926 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 9 was determined to be 125907.7282, output is 125907.7265625
+2021-09-10 14:33:07,926 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125895.0707
+2021-09-10 14:33:07,926 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 10 was determined to be 125895.0707, output is 125895.0703125
+2021-09-10 14:33:07,927 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125623.5477
+2021-09-10 14:33:07,927 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 11 was determined to be 125623.5477, output is 125623.546875
+2021-09-10 14:33:07,927 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125806.5394
+2021-09-10 14:33:07,927 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 12 was determined to be 125806.5394, output is 125806.5390625
+2021-09-10 14:33:07,927 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125346.9170
+2021-09-10 14:33:07,927 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 13 was determined to be 125346.9170, output is 125346.9140625
+2021-09-10 14:33:07,927 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125227.8382
+2021-09-10 14:33:07,928 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 14 was determined to be 125227.8382, output is 125227.8359375
+2021-09-10 14:33:07,928 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125680.2813
+2021-09-10 14:33:07,928 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 15 was determined to be 125680.2813, output is 125680.28125
+2021-09-10 14:33:07,928 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125648.7563
+2021-09-10 14:33:07,928 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 16 was determined to be 125648.7563, output is 125648.7578125
+2021-09-10 14:33:07,928 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125831.8214
+2021-09-10 14:33:07,928 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 17 was determined to be 125831.8214, output is 125831.8203125
+2021-09-10 14:33:07,929 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125939.3830
+2021-09-10 14:33:07,929 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 18 was determined to be 125939.3830, output is 125939.3828125
+2021-09-10 14:33:07,929 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126288.6368
+2021-09-10 14:33:07,929 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 19 was determined to be 126288.6368, output is 126288.640625
+2021-09-10 14:33:07,929 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125901.3991
+2021-09-10 14:33:07,929 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 20 was determined to be 125901.3991, output is 125901.3984375
+2021-09-10 14:33:07,929 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125177.7673
+2021-09-10 14:33:07,930 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 21 was determined to be 125177.7673, output is 125177.765625
+2021-09-10 14:33:07,930 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125585.7536
+2021-09-10 14:33:07,930 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 22 was determined to be 125585.7536, output is 125585.75
+2021-09-10 14:33:07,930 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125579.4568
+2021-09-10 14:33:07,930 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 23 was determined to be 125579.4568, output is 125579.453125
+2021-09-10 14:33:07,930 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126059.8162
+2021-09-10 14:33:07,930 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 24 was determined to be 126059.8162, output is 126059.8125
+2021-09-10 14:33:07,931 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126123.2945
+2021-09-10 14:33:07,931 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 25 was determined to be 126123.2945, output is 126123.296875
+2021-09-10 14:33:07,931 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125529.1050
+2021-09-10 14:33:07,931 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 26 was determined to be 125529.1050, output is 125529.1015625
+2021-09-10 14:33:07,931 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125730.7542
+2021-09-10 14:33:07,931 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 27 was determined to be 125730.7542, output is 125730.7578125
+2021-09-10 14:33:07,931 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125503.9442
+2021-09-10 14:33:07,932 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 28 was determined to be 125503.9442, output is 125503.9453125
+2021-09-10 14:33:07,932 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125838.1435
+2021-09-10 14:33:07,932 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 29 was determined to be 125838.1435, output is 125838.140625
+2021-09-10 14:33:07,932 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the tryAgain flag was successfully set to false
+2021-09-10 14:33:07,932 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-09-10 14:33:10,933 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-09-10 14:33:10,933 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-09-10 14:33:13,898 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the recieved command was: 125673.9751,125579.4568,125566.8651,125566.8651,125592.0510,125573.1606,125850.7895,125692.8958,125895.0707,125774.9512,125636.1507,125655.0601,125768.6354,125535.3968,125819.1791,126091.5474,125604.6478,125971.0537,125541.6892,125964.7183,125328.1000,125850.7895,125259.1528,125415.9606,125958.3835,125882.4158,125447.3692,125598.3491,125522.8139,125850.7895
+2021-09-10 14:33:13,898 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125673.9751
+2021-09-10 14:33:13,899 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125579.4568
+2021-09-10 14:33:13,899 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125566.8651
+2021-09-10 14:33:13,899 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125566.8651
+2021-09-10 14:33:13,899 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125592.0510
+2021-09-10 14:33:13,899 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125573.1606
+2021-09-10 14:33:13,899 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125850.7895
+2021-09-10 14:33:13,899 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125692.8958
+2021-09-10 14:33:13,900 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125895.0707
+2021-09-10 14:33:13,900 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125774.9512
+2021-09-10 14:33:13,900 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125636.1507
+2021-09-10 14:33:13,900 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125655.0601
+2021-09-10 14:33:13,900 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125768.6354
+2021-09-10 14:33:13,901 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125535.3968
+2021-09-10 14:33:13,901 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125819.1791
+2021-09-10 14:33:13,901 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126091.5474
+2021-09-10 14:33:13,901 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125604.6478
+2021-09-10 14:33:13,901 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125971.0537
+2021-09-10 14:33:13,901 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125541.6892
+2021-09-10 14:33:13,901 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125964.7183
+2021-09-10 14:33:13,902 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125328.1000
+2021-09-10 14:33:13,902 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125850.7895
+2021-09-10 14:33:13,902 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125259.1528
+2021-09-10 14:33:13,902 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125415.9606
+2021-09-10 14:33:13,902 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125958.3835
+2021-09-10 14:33:13,902 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125882.4158
+2021-09-10 14:33:13,902 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125447.3692
+2021-09-10 14:33:13,903 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125598.3491
+2021-09-10 14:33:13,903 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125522.8139
+2021-09-10 14:33:13,903 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125850.7895
+2021-09-10 14:33:13,903 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125673.9751
+2021-09-10 14:33:13,903 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 0 was determined to be 125673.9751, output is 125673.9765625
+2021-09-10 14:33:13,903 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125579.4568
+2021-09-10 14:33:13,903 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 1 was determined to be 125579.4568, output is 125579.453125
+2021-09-10 14:33:13,904 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125566.8651
+2021-09-10 14:33:13,904 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 2 was determined to be 125566.8651, output is 125566.8671875
+2021-09-10 14:33:13,904 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125566.8651
+2021-09-10 14:33:13,904 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 3 was determined to be 125566.8651, output is 125566.8671875
+2021-09-10 14:33:13,904 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125592.0510
+2021-09-10 14:33:13,904 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 4 was determined to be 125592.0510, output is 125592.0546875
+2021-09-10 14:33:13,904 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125573.1606
+2021-09-10 14:33:13,904 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 5 was determined to be 125573.1606, output is 125573.1640625
+2021-09-10 14:33:13,905 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125850.7895
+2021-09-10 14:33:13,905 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 6 was determined to be 125850.7895, output is 125850.7890625
+2021-09-10 14:33:13,905 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125692.8958
+2021-09-10 14:33:13,905 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 7 was determined to be 125692.8958, output is 125692.8984375
+2021-09-10 14:33:13,905 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125895.0707
+2021-09-10 14:33:13,905 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 8 was determined to be 125895.0707, output is 125895.0703125
+2021-09-10 14:33:13,905 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125774.9512
+2021-09-10 14:33:13,906 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 9 was determined to be 125774.9512, output is 125774.953125
+2021-09-10 14:33:13,906 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125636.1507
+2021-09-10 14:33:13,906 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 10 was determined to be 125636.1507, output is 125636.1484375
+2021-09-10 14:33:13,906 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125655.0601
+2021-09-10 14:33:13,906 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 11 was determined to be 125655.0601, output is 125655.0625
+2021-09-10 14:33:13,906 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125768.6354
+2021-09-10 14:33:13,906 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 12 was determined to be 125768.6354, output is 125768.6328125
+2021-09-10 14:33:13,907 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125535.3968
+2021-09-10 14:33:13,907 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 13 was determined to be 125535.3968, output is 125535.3984375
+2021-09-10 14:33:13,907 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125819.1791
+2021-09-10 14:33:13,907 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 14 was determined to be 125819.1791, output is 125819.1796875
+2021-09-10 14:33:13,907 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126091.5474
+2021-09-10 14:33:13,907 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 15 was determined to be 126091.5474, output is 126091.546875
+2021-09-10 14:33:13,907 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125604.6478
+2021-09-10 14:33:13,908 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 16 was determined to be 125604.6478, output is 125604.6484375
+2021-09-10 14:33:13,908 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125971.0537
+2021-09-10 14:33:13,908 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 17 was determined to be 125971.0537, output is 125971.0546875
+2021-09-10 14:33:13,908 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125541.6892
+2021-09-10 14:33:13,908 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 18 was determined to be 125541.6892, output is 125541.6875
+2021-09-10 14:33:13,908 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125964.7183
+2021-09-10 14:33:13,908 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 19 was determined to be 125964.7183, output is 125964.71875
+2021-09-10 14:33:13,909 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125328.1000
+2021-09-10 14:33:13,909 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 20 was determined to be 125328.1000, output is 125328.1015625
+2021-09-10 14:33:13,909 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125850.7895
+2021-09-10 14:33:13,909 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 21 was determined to be 125850.7895, output is 125850.7890625
+2021-09-10 14:33:13,909 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125259.1528
+2021-09-10 14:33:13,909 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 22 was determined to be 125259.1528, output is 125259.15625
+2021-09-10 14:33:13,909 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125415.9606
+2021-09-10 14:33:13,910 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 23 was determined to be 125415.9606, output is 125415.9609375
+2021-09-10 14:33:13,910 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125958.3835
+2021-09-10 14:33:13,910 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 24 was determined to be 125958.3835, output is 125958.3828125
+2021-09-10 14:33:13,910 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125882.4158
+2021-09-10 14:33:13,910 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 25 was determined to be 125882.4158, output is 125882.4140625
+2021-09-10 14:33:13,910 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125447.3692
+2021-09-10 14:33:13,910 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 26 was determined to be 125447.3692, output is 125447.3671875
+2021-09-10 14:33:13,910 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125598.3491
+2021-09-10 14:33:13,911 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 27 was determined to be 125598.3491, output is 125598.3515625
+2021-09-10 14:33:13,911 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125522.8139
+2021-09-10 14:33:13,911 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 28 was determined to be 125522.8139, output is 125522.8125
+2021-09-10 14:33:13,911 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125850.7895
+2021-09-10 14:33:13,911 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 29 was determined to be 125850.7895, output is 125850.7890625
+2021-09-10 14:33:13,911 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the tryAgain flag was successfully set to false
+2021-09-10 14:33:13,912 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-09-10 14:33:16,912 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-09-10 14:33:16,912 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-09-10 14:33:19,875 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the recieved command was: 125977.3897,125617.2471,125579.4568,125441.0862,125415.9606,125971.0537,125812.8589,126307.7426,125699.2039,125781.2675,125920.3882,125806.5394,125579.4568,125774.9512,125907.7282,125478.7935,125566.8651,125265.4176,125711.8221,125686.5882,125579.4568,125667.6694,125397.1230,125422.2411,125882.4158,125541.6892,125920.3882,125667.6694,125882.4158,125321.8290
+2021-09-10 14:33:19,876 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125977.3897
+2021-09-10 14:33:19,876 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125617.2471
+2021-09-10 14:33:19,876 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125579.4568
+2021-09-10 14:33:19,877 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125441.0862
+2021-09-10 14:33:19,877 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125415.9606
+2021-09-10 14:33:19,877 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125971.0537
+2021-09-10 14:33:19,877 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125812.8589
+2021-09-10 14:33:19,877 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126307.7426
+2021-09-10 14:33:19,878 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125699.2039
+2021-09-10 14:33:19,878 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125781.2675
+2021-09-10 14:33:19,878 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125920.3882
+2021-09-10 14:33:19,878 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125806.5394
+2021-09-10 14:33:19,878 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125579.4568
+2021-09-10 14:33:19,879 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125774.9512
+2021-09-10 14:33:19,879 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125907.7282
+2021-09-10 14:33:19,879 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125478.7935
+2021-09-10 14:33:19,879 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125566.8651
+2021-09-10 14:33:19,879 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125265.4176
+2021-09-10 14:33:19,879 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125711.8221
+2021-09-10 14:33:19,879 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125686.5882
+2021-09-10 14:33:19,880 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125579.4568
+2021-09-10 14:33:19,880 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125667.6694
+2021-09-10 14:33:19,880 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125397.1230
+2021-09-10 14:33:19,880 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125422.2411
+2021-09-10 14:33:19,880 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125882.4158
+2021-09-10 14:33:19,880 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125541.6892
+2021-09-10 14:33:19,880 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125920.3882
+2021-09-10 14:33:19,881 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125667.6694
+2021-09-10 14:33:19,881 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125882.4158
+2021-09-10 14:33:19,881 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125321.8290
+2021-09-10 14:33:19,881 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125977.3897
+2021-09-10 14:33:19,881 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 0 was determined to be 125977.3897, output is 125977.390625
+2021-09-10 14:33:19,881 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125617.2471
+2021-09-10 14:33:19,881 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 1 was determined to be 125617.2471, output is 125617.25
+2021-09-10 14:33:19,881 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125579.4568
+2021-09-10 14:33:19,882 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 2 was determined to be 125579.4568, output is 125579.453125
+2021-09-10 14:33:19,882 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125441.0862
+2021-09-10 14:33:19,882 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 3 was determined to be 125441.0862, output is 125441.0859375
+2021-09-10 14:33:19,882 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125415.9606
+2021-09-10 14:33:19,882 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 4 was determined to be 125415.9606, output is 125415.9609375
+2021-09-10 14:33:19,882 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125971.0537
+2021-09-10 14:33:19,883 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 5 was determined to be 125971.0537, output is 125971.0546875
+2021-09-10 14:33:19,883 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125812.8589
+2021-09-10 14:33:19,883 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 6 was determined to be 125812.8589, output is 125812.859375
+2021-09-10 14:33:19,883 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126307.7426
+2021-09-10 14:33:19,883 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 7 was determined to be 126307.7426, output is 126307.7421875
+2021-09-10 14:33:19,883 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125699.2039
+2021-09-10 14:33:19,883 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 8 was determined to be 125699.2039, output is 125699.203125
+2021-09-10 14:33:19,884 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125781.2675
+2021-09-10 14:33:19,884 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 9 was determined to be 125781.2675, output is 125781.265625
+2021-09-10 14:33:19,884 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125920.3882
+2021-09-10 14:33:19,884 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 10 was determined to be 125920.3882, output is 125920.390625
+2021-09-10 14:33:19,884 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125806.5394
+2021-09-10 14:33:19,884 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 11 was determined to be 125806.5394, output is 125806.5390625
+2021-09-10 14:33:19,884 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125579.4568
+2021-09-10 14:33:19,885 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 12 was determined to be 125579.4568, output is 125579.453125
+2021-09-10 14:33:19,885 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125774.9512
+2021-09-10 14:33:19,885 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 13 was determined to be 125774.9512, output is 125774.953125
+2021-09-10 14:33:19,885 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125907.7282
+2021-09-10 14:33:19,885 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 14 was determined to be 125907.7282, output is 125907.7265625
+2021-09-10 14:33:19,885 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125478.7935
+2021-09-10 14:33:19,885 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 15 was determined to be 125478.7935, output is 125478.796875
+2021-09-10 14:33:19,886 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125566.8651
+2021-09-10 14:33:19,886 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 16 was determined to be 125566.8651, output is 125566.8671875
+2021-09-10 14:33:19,886 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125265.4176
+2021-09-10 14:33:19,886 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 17 was determined to be 125265.4176, output is 125265.4140625
+2021-09-10 14:33:19,886 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125711.8221
+2021-09-10 14:33:19,886 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 18 was determined to be 125711.8221, output is 125711.8203125
+2021-09-10 14:33:19,886 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125686.5882
+2021-09-10 14:33:19,886 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 19 was determined to be 125686.5882, output is 125686.5859375
+2021-09-10 14:33:19,887 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125579.4568
+2021-09-10 14:33:19,887 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 20 was determined to be 125579.4568, output is 125579.453125
+2021-09-10 14:33:19,887 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125667.6694
+2021-09-10 14:33:19,887 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 21 was determined to be 125667.6694, output is 125667.671875
+2021-09-10 14:33:19,887 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125397.1230
+2021-09-10 14:33:19,887 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 22 was determined to be 125397.1230, output is 125397.125
+2021-09-10 14:33:19,887 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125422.2411
+2021-09-10 14:33:19,888 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 23 was determined to be 125422.2411, output is 125422.2421875
+2021-09-10 14:33:19,888 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125882.4158
+2021-09-10 14:33:19,888 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 24 was determined to be 125882.4158, output is 125882.4140625
+2021-09-10 14:33:19,888 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125541.6892
+2021-09-10 14:33:19,888 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 25 was determined to be 125541.6892, output is 125541.6875
+2021-09-10 14:33:19,888 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125920.3882
+2021-09-10 14:33:19,888 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 26 was determined to be 125920.3882, output is 125920.390625
+2021-09-10 14:33:19,889 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125667.6694
+2021-09-10 14:33:19,889 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 27 was determined to be 125667.6694, output is 125667.671875
+2021-09-10 14:33:19,889 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125882.4158
+2021-09-10 14:33:19,889 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 28 was determined to be 125882.4158, output is 125882.4140625
+2021-09-10 14:33:19,889 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125321.8290
+2021-09-10 14:33:19,889 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 29 was determined to be 125321.8290, output is 125321.828125
+2021-09-10 14:33:19,889 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the tryAgain flag was successfully set to false
+2021-09-10 14:33:19,890 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-09-10 14:33:38,891 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-09-10 14:33:38,891 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-09-10 14:33:43,791 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the recieved command was: 125793.9022,125673.9751,125585.7536,125787.5845,125756.0058,125673.9751,125610.9471,125920.3882,125673.9751,125390.8451,125850.7895,125825.4999,125340.6440,125901.3991,125535.3968,125390.8451,125749.6920,125806.5394,125718.1322,125901.3991,125718.1322,125592.0510,126091.5474,125768.6354,126034.4428,125284.2158,126021.7599,125554.2759,125686.5882,125705.5127
+2021-09-10 14:33:43,791 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125793.9022
+2021-09-10 14:33:43,791 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125673.9751
+2021-09-10 14:33:43,791 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125585.7536
+2021-09-10 14:33:43,791 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125787.5845
+2021-09-10 14:33:43,791 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125756.0058
+2021-09-10 14:33:43,792 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125673.9751
+2021-09-10 14:33:43,792 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125610.9471
+2021-09-10 14:33:43,792 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125920.3882
+2021-09-10 14:33:43,792 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125673.9751
+2021-09-10 14:33:43,792 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125390.8451
+2021-09-10 14:33:43,792 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125850.7895
+2021-09-10 14:33:43,792 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125825.4999
+2021-09-10 14:33:43,793 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125340.6440
+2021-09-10 14:33:43,793 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125901.3991
+2021-09-10 14:33:43,793 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125535.3968
+2021-09-10 14:33:43,793 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125390.8451
+2021-09-10 14:33:43,793 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125749.6920
+2021-09-10 14:33:43,793 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125806.5394
+2021-09-10 14:33:43,794 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125718.1322
+2021-09-10 14:33:43,794 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125901.3991
+2021-09-10 14:33:43,794 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125718.1322
+2021-09-10 14:33:43,794 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125592.0510
+2021-09-10 14:33:43,794 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126091.5474
+2021-09-10 14:33:43,794 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125768.6354
+2021-09-10 14:33:43,794 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126034.4428
+2021-09-10 14:33:43,795 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125284.2158
+2021-09-10 14:33:43,795 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126021.7599
+2021-09-10 14:33:43,795 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125554.2759
+2021-09-10 14:33:43,795 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125686.5882
+2021-09-10 14:33:43,795 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125705.5127
+2021-09-10 14:33:43,795 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125793.9022
+2021-09-10 14:33:43,796 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 0 was determined to be 125793.9022, output is 125793.8984375
+2021-09-10 14:33:43,796 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125673.9751
+2021-09-10 14:33:43,796 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 1 was determined to be 125673.9751, output is 125673.9765625
+2021-09-10 14:33:43,796 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125585.7536
+2021-09-10 14:33:43,796 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 2 was determined to be 125585.7536, output is 125585.75
+2021-09-10 14:33:43,796 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125787.5845
+2021-09-10 14:33:43,796 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 3 was determined to be 125787.5845, output is 125787.5859375
+2021-09-10 14:33:43,797 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125756.0058
+2021-09-10 14:33:43,797 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 4 was determined to be 125756.0058, output is 125756.0078125
+2021-09-10 14:33:43,797 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125673.9751
+2021-09-10 14:33:43,797 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 5 was determined to be 125673.9751, output is 125673.9765625
+2021-09-10 14:33:43,797 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125610.9471
+2021-09-10 14:33:43,797 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 6 was determined to be 125610.9471, output is 125610.9453125
+2021-09-10 14:33:43,798 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125920.3882
+2021-09-10 14:33:43,798 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 7 was determined to be 125920.3882, output is 125920.390625
+2021-09-10 14:33:43,798 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125673.9751
+2021-09-10 14:33:43,798 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 8 was determined to be 125673.9751, output is 125673.9765625
+2021-09-10 14:33:43,799 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125390.8451
+2021-09-10 14:33:43,799 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 9 was determined to be 125390.8451, output is 125390.84375
+2021-09-10 14:33:43,799 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125850.7895
+2021-09-10 14:33:43,799 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 10 was determined to be 125850.7895, output is 125850.7890625
+2021-09-10 14:33:43,799 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125825.4999
+2021-09-10 14:33:43,799 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 11 was determined to be 125825.4999, output is 125825.5
+2021-09-10 14:33:43,799 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125340.6440
+2021-09-10 14:33:43,800 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 12 was determined to be 125340.6440, output is 125340.640625
+2021-09-10 14:33:43,800 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125901.3991
+2021-09-10 14:33:43,800 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 13 was determined to be 125901.3991, output is 125901.3984375
+2021-09-10 14:33:43,800 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125535.3968
+2021-09-10 14:33:43,800 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 14 was determined to be 125535.3968, output is 125535.3984375
+2021-09-10 14:33:43,800 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125390.8451
+2021-09-10 14:33:43,801 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 15 was determined to be 125390.8451, output is 125390.84375
+2021-09-10 14:33:43,801 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125749.6920
+2021-09-10 14:33:43,801 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 16 was determined to be 125749.6920, output is 125749.6953125
+2021-09-10 14:33:43,801 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125806.5394
+2021-09-10 14:33:43,801 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 17 was determined to be 125806.5394, output is 125806.5390625
+2021-09-10 14:33:43,801 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125718.1322
+2021-09-10 14:33:43,802 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 18 was determined to be 125718.1322, output is 125718.1328125
+2021-09-10 14:33:43,802 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125901.3991
+2021-09-10 14:33:43,802 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 19 was determined to be 125901.3991, output is 125901.3984375
+2021-09-10 14:33:43,802 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125718.1322
+2021-09-10 14:33:43,802 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 20 was determined to be 125718.1322, output is 125718.1328125
+2021-09-10 14:33:43,802 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125592.0510
+2021-09-10 14:33:43,802 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 21 was determined to be 125592.0510, output is 125592.0546875
+2021-09-10 14:33:43,803 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126091.5474
+2021-09-10 14:33:43,803 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 22 was determined to be 126091.5474, output is 126091.546875
+2021-09-10 14:33:43,803 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125768.6354
+2021-09-10 14:33:43,803 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 23 was determined to be 125768.6354, output is 125768.6328125
+2021-09-10 14:33:43,803 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126034.4428
+2021-09-10 14:33:43,803 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 24 was determined to be 126034.4428, output is 126034.4453125
+2021-09-10 14:33:43,804 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125284.2158
+2021-09-10 14:33:43,804 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 25 was determined to be 125284.2158, output is 125284.21875
+2021-09-10 14:33:43,804 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126021.7599
+2021-09-10 14:33:43,804 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 26 was determined to be 126021.7599, output is 126021.7578125
+2021-09-10 14:33:43,804 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125554.2759
+2021-09-10 14:33:43,804 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 27 was determined to be 125554.2759, output is 125554.2734375
+2021-09-10 14:33:43,804 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125686.5882
+2021-09-10 14:33:43,805 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 28 was determined to be 125686.5882, output is 125686.5859375
+2021-09-10 14:33:43,805 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125705.5127
+2021-09-10 14:33:43,805 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 29 was determined to be 125705.5127, output is 125705.515625
+2021-09-10 14:33:43,805 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the tryAgain flag was successfully set to false
+2021-09-10 14:33:43,805 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-09-10 14:34:02,806 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-09-10 14:34:02,806 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-09-10 14:34:07,705 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the recieved command was: 126116.9438,125901.3991,125793.9022,125497.6556,125850.7895,125971.0537,126352.3452,125737.0662,125560.5701,125617.2471,125617.2471,126218.6315,125516.5233,125453.6528,125686.5882,126021.7599,125598.3491,126282.2695,126009.0795,126142.3504,125610.9471,125303.0196,126244.0790,125680.2813,125964.7183,126174.1230,125724.4429,125397.1230,125933.0508,125573.1606
+2021-09-10 14:34:07,705 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126116.9438
+2021-09-10 14:34:07,705 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125901.3991
+2021-09-10 14:34:07,705 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125793.9022
+2021-09-10 14:34:07,705 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125497.6556
+2021-09-10 14:34:07,706 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125850.7895
+2021-09-10 14:34:07,706 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125971.0537
+2021-09-10 14:34:07,706 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126352.3452
+2021-09-10 14:34:07,706 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125737.0662
+2021-09-10 14:34:07,706 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125560.5701
+2021-09-10 14:34:07,706 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125617.2471
+2021-09-10 14:34:07,706 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125617.2471
+2021-09-10 14:34:07,707 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126218.6315
+2021-09-10 14:34:07,707 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125516.5233
+2021-09-10 14:34:07,707 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125453.6528
+2021-09-10 14:34:07,707 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125686.5882
+2021-09-10 14:34:07,707 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126021.7599
+2021-09-10 14:34:07,707 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125598.3491
+2021-09-10 14:34:07,707 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126282.2695
+2021-09-10 14:34:07,708 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126009.0795
+2021-09-10 14:34:07,708 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126142.3504
+2021-09-10 14:34:07,708 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125610.9471
+2021-09-10 14:34:07,708 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125303.0196
+2021-09-10 14:34:07,708 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126244.0790
+2021-09-10 14:34:07,708 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125680.2813
+2021-09-10 14:34:07,708 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125964.7183
+2021-09-10 14:34:07,708 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126174.1230
+2021-09-10 14:34:07,709 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125724.4429
+2021-09-10 14:34:07,709 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125397.1230
+2021-09-10 14:34:07,709 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125933.0508
+2021-09-10 14:34:07,709 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125573.1606
+2021-09-10 14:34:07,709 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126116.9438
+2021-09-10 14:34:07,709 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 0 was determined to be 126116.9438, output is 126116.9453125
+2021-09-10 14:34:07,709 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125901.3991
+2021-09-10 14:34:07,710 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 1 was determined to be 125901.3991, output is 125901.3984375
+2021-09-10 14:34:07,710 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125793.9022
+2021-09-10 14:34:07,710 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 2 was determined to be 125793.9022, output is 125793.8984375
+2021-09-10 14:34:07,710 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125497.6556
+2021-09-10 14:34:07,710 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 3 was determined to be 125497.6556, output is 125497.65625
+2021-09-10 14:34:07,710 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125850.7895
+2021-09-10 14:34:07,710 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 4 was determined to be 125850.7895, output is 125850.7890625
+2021-09-10 14:34:07,711 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125971.0537
+2021-09-10 14:34:07,711 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 5 was determined to be 125971.0537, output is 125971.0546875
+2021-09-10 14:34:07,711 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126352.3452
+2021-09-10 14:34:07,711 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 6 was determined to be 126352.3452, output is 126352.34375
+2021-09-10 14:34:07,711 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125737.0662
+2021-09-10 14:34:07,711 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 7 was determined to be 125737.0662, output is 125737.0625
+2021-09-10 14:34:07,711 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125560.5701
+2021-09-10 14:34:07,712 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 8 was determined to be 125560.5701, output is 125560.5703125
+2021-09-10 14:34:07,712 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125617.2471
+2021-09-10 14:34:07,712 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 9 was determined to be 125617.2471, output is 125617.25
+2021-09-10 14:34:07,712 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125617.2471
+2021-09-10 14:34:07,712 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 10 was determined to be 125617.2471, output is 125617.25
+2021-09-10 14:34:07,712 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126218.6315
+2021-09-10 14:34:07,712 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 11 was determined to be 126218.6315, output is 126218.6328125
+2021-09-10 14:34:07,713 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125516.5233
+2021-09-10 14:34:07,713 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 12 was determined to be 125516.5233, output is 125516.5234375
+2021-09-10 14:34:07,713 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125453.6528
+2021-09-10 14:34:07,713 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 13 was determined to be 125453.6528, output is 125453.65625
+2021-09-10 14:34:07,713 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125686.5882
+2021-09-10 14:34:07,713 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 14 was determined to be 125686.5882, output is 125686.5859375
+2021-09-10 14:34:07,713 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126021.7599
+2021-09-10 14:34:07,714 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 15 was determined to be 126021.7599, output is 126021.7578125
+2021-09-10 14:34:07,714 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125598.3491
+2021-09-10 14:34:07,714 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 16 was determined to be 125598.3491, output is 125598.3515625
+2021-09-10 14:34:07,714 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126282.2695
+2021-09-10 14:34:07,714 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 17 was determined to be 126282.2695, output is 126282.265625
+2021-09-10 14:34:07,714 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126009.0795
+2021-09-10 14:34:07,714 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 18 was determined to be 126009.0795, output is 126009.078125
+2021-09-10 14:34:07,715 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126142.3504
+2021-09-10 14:34:07,715 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 19 was determined to be 126142.3504, output is 126142.3515625
+2021-09-10 14:34:07,715 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125610.9471
+2021-09-10 14:34:07,715 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 20 was determined to be 125610.9471, output is 125610.9453125
+2021-09-10 14:34:07,715 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125303.0196
+2021-09-10 14:34:07,715 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 21 was determined to be 125303.0196, output is 125303.0234375
+2021-09-10 14:34:07,715 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126244.0790
+2021-09-10 14:34:07,716 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 22 was determined to be 126244.0790, output is 126244.078125
+2021-09-10 14:34:07,716 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125680.2813
+2021-09-10 14:34:07,716 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 23 was determined to be 125680.2813, output is 125680.28125
+2021-09-10 14:34:07,716 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125964.7183
+2021-09-10 14:34:07,716 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 24 was determined to be 125964.7183, output is 125964.71875
+2021-09-10 14:34:07,717 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126174.1230
+2021-09-10 14:34:07,717 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 25 was determined to be 126174.1230, output is 126174.125
+2021-09-10 14:34:07,717 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125724.4429
+2021-09-10 14:34:07,717 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 26 was determined to be 125724.4429, output is 125724.4453125
+2021-09-10 14:34:07,718 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125397.1230
+2021-09-10 14:34:07,718 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 27 was determined to be 125397.1230, output is 125397.125
+2021-09-10 14:34:07,718 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125933.0508
+2021-09-10 14:34:07,718 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 28 was determined to be 125933.0508, output is 125933.0546875
+2021-09-10 14:34:07,718 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125573.1606
+2021-09-10 14:34:07,718 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 29 was determined to be 125573.1606, output is 125573.1640625
+2021-09-10 14:34:07,719 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the tryAgain flag was successfully set to false
+2021-09-10 14:34:07,719 [7] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-11-16 15:31:12,817 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-11-16 15:31:12,840 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-11-16 15:31:12,841 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-11-16 15:31:18,849 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:31:24,860 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:31:30,876 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:31:36,890 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:31:42,900 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:31:48,914 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:31:54,933 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:32:32,229 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-11-16 15:32:32,252 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-11-16 15:32:32,253 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-11-16 15:32:38,257 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:32:44,274 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:32:50,278 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:32:56,282 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:33:02,305 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:33:08,310 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:33:14,328 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:33:20,333 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:33:26,342 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:33:43,415 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-11-16 15:33:43,439 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-11-16 15:33:43,439 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-11-16 15:33:49,446 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:33:55,459 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:34:01,464 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:34:07,482 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:34:13,501 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:34:19,513 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:34:25,518 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:34:31,532 [1] ERROR MesoMatDemoApp.SerialCommunicator [(null)] - No immediate response, pinging again
+2021-11-16 15:35:14,403 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-11-16 15:35:14,426 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-11-16 15:35:14,426 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-11-16 15:35:19,900 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the recieved command was: 126224.9925,125629.8489,126110.5937,126601.4220,126467.1821,126627.0238,127044.5046,126326.8542,126224.9925,126665.4457,126518.2876,126237.7162,126531.0705,126174.1230,126665.4457,126333.2260,125990.0637,126275.9028,126620.6224,126174.1230,126742.3595,126454.4122,126237.7162,126371.4703,126078.8530,126307.7426,126307.7426,126819.3666,126275.9028,125680.2813
+2021-11-16 15:35:19,901 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126224.9925
+2021-11-16 15:35:19,901 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125629.8489
+2021-11-16 15:35:19,901 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126110.5937
+2021-11-16 15:35:19,902 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126601.4220
+2021-11-16 15:35:19,902 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126467.1821
+2021-11-16 15:35:19,902 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126627.0238
+2021-11-16 15:35:19,902 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 127044.5046
+2021-11-16 15:35:19,903 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126326.8542
+2021-11-16 15:35:19,903 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126224.9925
+2021-11-16 15:35:19,903 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126665.4457
+2021-11-16 15:35:19,903 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126518.2876
+2021-11-16 15:35:19,903 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126237.7162
+2021-11-16 15:35:19,904 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126531.0705
+2021-11-16 15:35:19,904 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126174.1230
+2021-11-16 15:35:19,904 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126665.4457
+2021-11-16 15:35:19,904 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126333.2260
+2021-11-16 15:35:19,904 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125990.0637
+2021-11-16 15:35:19,904 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126275.9028
+2021-11-16 15:35:19,905 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126620.6224
+2021-11-16 15:35:19,905 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126174.1230
+2021-11-16 15:35:19,905 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126742.3595
+2021-11-16 15:35:19,905 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126454.4122
+2021-11-16 15:35:19,905 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126237.7162
+2021-11-16 15:35:19,906 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126371.4703
+2021-11-16 15:35:19,906 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126078.8530
+2021-11-16 15:35:19,906 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126307.7426
+2021-11-16 15:35:19,906 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126307.7426
+2021-11-16 15:35:19,906 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126819.3666
+2021-11-16 15:35:19,906 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126275.9028
+2021-11-16 15:35:19,907 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125680.2813
+2021-11-16 15:35:19,907 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126224.9925
+2021-11-16 15:35:19,907 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 0 was determined to be 126224.9925, output is 126224.9921875
+2021-11-16 15:35:19,907 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125629.8489
+2021-11-16 15:35:19,907 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 1 was determined to be 125629.8489, output is 125629.8515625
+2021-11-16 15:35:19,907 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126110.5937
+2021-11-16 15:35:19,908 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 2 was determined to be 126110.5937, output is 126110.59375
+2021-11-16 15:35:19,908 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126601.4220
+2021-11-16 15:35:19,908 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 3 was determined to be 126601.4220, output is 126601.421875
+2021-11-16 15:35:19,908 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126467.1821
+2021-11-16 15:35:19,908 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 4 was determined to be 126467.1821, output is 126467.1796875
+2021-11-16 15:35:19,908 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126627.0238
+2021-11-16 15:35:19,909 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 5 was determined to be 126627.0238, output is 126627.0234375
+2021-11-16 15:35:19,909 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 127044.5046
+2021-11-16 15:35:19,909 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 6 was determined to be 127044.5046, output is 127044.5078125
+2021-11-16 15:35:19,909 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126326.8542
+2021-11-16 15:35:19,909 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 7 was determined to be 126326.8542, output is 126326.8515625
+2021-11-16 15:35:19,910 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126224.9925
+2021-11-16 15:35:19,910 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 8 was determined to be 126224.9925, output is 126224.9921875
+2021-11-16 15:35:19,910 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126665.4457
+2021-11-16 15:35:19,910 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 9 was determined to be 126665.4457, output is 126665.4453125
+2021-11-16 15:35:19,910 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126518.2876
+2021-11-16 15:35:19,910 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 10 was determined to be 126518.2876, output is 126518.2890625
+2021-11-16 15:35:19,911 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126237.7162
+2021-11-16 15:35:19,911 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 11 was determined to be 126237.7162, output is 126237.71875
+2021-11-16 15:35:19,911 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126531.0705
+2021-11-16 15:35:19,911 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 12 was determined to be 126531.0705, output is 126531.0703125
+2021-11-16 15:35:19,911 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126174.1230
+2021-11-16 15:35:19,912 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 13 was determined to be 126174.1230, output is 126174.125
+2021-11-16 15:35:19,912 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126665.4457
+2021-11-16 15:35:19,912 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 14 was determined to be 126665.4457, output is 126665.4453125
+2021-11-16 15:35:19,912 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126333.2260
+2021-11-16 15:35:19,912 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 15 was determined to be 126333.2260, output is 126333.2265625
+2021-11-16 15:35:19,913 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125990.0637
+2021-11-16 15:35:19,913 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 16 was determined to be 125990.0637, output is 125990.0625
+2021-11-16 15:35:19,913 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126275.9028
+2021-11-16 15:35:19,913 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 17 was determined to be 126275.9028, output is 126275.90625
+2021-11-16 15:35:19,913 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126620.6224
+2021-11-16 15:35:19,913 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 18 was determined to be 126620.6224, output is 126620.625
+2021-11-16 15:35:19,914 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126174.1230
+2021-11-16 15:35:19,914 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 19 was determined to be 126174.1230, output is 126174.125
+2021-11-16 15:35:19,914 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126742.3595
+2021-11-16 15:35:19,914 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 20 was determined to be 126742.3595, output is 126742.359375
+2021-11-16 15:35:19,914 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126454.4122
+2021-11-16 15:35:19,915 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 21 was determined to be 126454.4122, output is 126454.4140625
+2021-11-16 15:35:19,915 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126237.7162
+2021-11-16 15:35:19,915 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 22 was determined to be 126237.7162, output is 126237.71875
+2021-11-16 15:35:19,915 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126371.4703
+2021-11-16 15:35:19,915 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 23 was determined to be 126371.4703, output is 126371.46875
+2021-11-16 15:35:19,915 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126078.8530
+2021-11-16 15:35:19,916 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 24 was determined to be 126078.8530, output is 126078.8515625
+2021-11-16 15:35:19,916 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126307.7426
+2021-11-16 15:35:19,916 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 25 was determined to be 126307.7426, output is 126307.7421875
+2021-11-16 15:35:19,916 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126307.7426
+2021-11-16 15:35:19,916 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 26 was determined to be 126307.7426, output is 126307.7421875
+2021-11-16 15:35:19,916 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126819.3666
+2021-11-16 15:35:19,917 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 27 was determined to be 126819.3666, output is 126819.3671875
+2021-11-16 15:35:19,917 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126275.9028
+2021-11-16 15:35:19,917 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 28 was determined to be 126275.9028, output is 126275.90625
+2021-11-16 15:35:19,917 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125680.2813
+2021-11-16 15:35:19,917 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 29 was determined to be 125680.2813, output is 125680.28125
+2021-11-16 15:35:19,918 [1] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the tryAgain flag was successfully set to false
+2021-11-16 15:35:19,929 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-11-16 15:35:19,930 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-11-16 15:35:19,930 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-11-16 15:35:25,876 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the recieved command was: 126652.6358,126691.0733,126365.0946,126428.8800,126569.4344,125838.1435,126326.8542,126135.9978,126467.1821,126428.8800,126314.1125,126256.8066,126155.0575,126460.7969,126275.9028,125831.8214,126422.4986,125838.1435,126034.4428,126205.9116,125895.0707,126365.0946,126371.4703,126755.1876,126358.7196,126428.8800,125983.7264,125933.0508,126492.7297,126269.5368
+2021-11-16 15:35:25,876 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126652.6358
+2021-11-16 15:35:25,876 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126691.0733
+2021-11-16 15:35:25,876 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126365.0946
+2021-11-16 15:35:25,877 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126428.8800
+2021-11-16 15:35:25,877 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126569.4344
+2021-11-16 15:35:25,877 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125838.1435
+2021-11-16 15:35:25,877 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126326.8542
+2021-11-16 15:35:25,877 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126135.9978
+2021-11-16 15:35:25,878 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126467.1821
+2021-11-16 15:35:25,878 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126428.8800
+2021-11-16 15:35:25,878 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126314.1125
+2021-11-16 15:35:25,878 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126256.8066
+2021-11-16 15:35:25,878 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126155.0575
+2021-11-16 15:35:25,878 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126460.7969
+2021-11-16 15:35:25,879 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126275.9028
+2021-11-16 15:35:25,879 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125831.8214
+2021-11-16 15:35:25,879 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126422.4986
+2021-11-16 15:35:25,879 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125838.1435
+2021-11-16 15:35:25,879 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126034.4428
+2021-11-16 15:35:25,880 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126205.9116
+2021-11-16 15:35:25,880 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125895.0707
+2021-11-16 15:35:25,880 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126365.0946
+2021-11-16 15:35:25,880 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126371.4703
+2021-11-16 15:35:25,880 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126755.1876
+2021-11-16 15:35:25,880 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126358.7196
+2021-11-16 15:35:25,881 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126428.8800
+2021-11-16 15:35:25,881 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125983.7264
+2021-11-16 15:35:25,881 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125933.0508
+2021-11-16 15:35:25,881 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126492.7297
+2021-11-16 15:35:25,881 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126269.5368
+2021-11-16 15:35:25,881 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126652.6358
+2021-11-16 15:35:25,882 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 0 was determined to be 126652.6358, output is 126652.6328125
+2021-11-16 15:35:25,882 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126691.0733
+2021-11-16 15:35:25,882 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 1 was determined to be 126691.0733, output is 126691.0703125
+2021-11-16 15:35:25,882 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126365.0946
+2021-11-16 15:35:25,882 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 2 was determined to be 126365.0946, output is 126365.09375
+2021-11-16 15:35:25,883 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126428.8800
+2021-11-16 15:35:25,883 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 3 was determined to be 126428.8800, output is 126428.8828125
+2021-11-16 15:35:25,883 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126569.4344
+2021-11-16 15:35:25,883 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 4 was determined to be 126569.4344, output is 126569.4375
+2021-11-16 15:35:25,883 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125838.1435
+2021-11-16 15:35:25,883 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 5 was determined to be 125838.1435, output is 125838.140625
+2021-11-16 15:35:25,884 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126326.8542
+2021-11-16 15:35:25,884 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 6 was determined to be 126326.8542, output is 126326.8515625
+2021-11-16 15:35:25,884 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126135.9978
+2021-11-16 15:35:25,884 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 7 was determined to be 126135.9978, output is 126136
+2021-11-16 15:35:25,884 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126467.1821
+2021-11-16 15:35:25,884 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 8 was determined to be 126467.1821, output is 126467.1796875
+2021-11-16 15:35:25,885 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126428.8800
+2021-11-16 15:35:25,885 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 9 was determined to be 126428.8800, output is 126428.8828125
+2021-11-16 15:35:25,885 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126314.1125
+2021-11-16 15:35:25,885 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 10 was determined to be 126314.1125, output is 126314.109375
+2021-11-16 15:35:25,885 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126256.8066
+2021-11-16 15:35:25,886 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 11 was determined to be 126256.8066, output is 126256.8046875
+2021-11-16 15:35:25,886 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126155.0575
+2021-11-16 15:35:25,886 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 12 was determined to be 126155.0575, output is 126155.0546875
+2021-11-16 15:35:25,886 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126460.7969
+2021-11-16 15:35:25,886 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 13 was determined to be 126460.7969, output is 126460.796875
+2021-11-16 15:35:25,886 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126275.9028
+2021-11-16 15:35:25,887 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 14 was determined to be 126275.9028, output is 126275.90625
+2021-11-16 15:35:25,887 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125831.8214
+2021-11-16 15:35:25,887 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 15 was determined to be 125831.8214, output is 125831.8203125
+2021-11-16 15:35:25,887 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126422.4986
+2021-11-16 15:35:25,887 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 16 was determined to be 126422.4986, output is 126422.5
+2021-11-16 15:35:25,887 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125838.1435
+2021-11-16 15:35:25,888 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 17 was determined to be 125838.1435, output is 125838.140625
+2021-11-16 15:35:25,888 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126034.4428
+2021-11-16 15:35:25,888 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 18 was determined to be 126034.4428, output is 126034.4453125
+2021-11-16 15:35:25,888 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126205.9116
+2021-11-16 15:35:25,888 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 19 was determined to be 126205.9116, output is 126205.9140625
+2021-11-16 15:35:25,888 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125895.0707
+2021-11-16 15:35:25,889 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 20 was determined to be 125895.0707, output is 125895.0703125
+2021-11-16 15:35:25,889 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126365.0946
+2021-11-16 15:35:25,889 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 21 was determined to be 126365.0946, output is 126365.09375
+2021-11-16 15:35:25,889 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126371.4703
+2021-11-16 15:35:25,889 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 22 was determined to be 126371.4703, output is 126371.46875
+2021-11-16 15:35:25,890 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126755.1876
+2021-11-16 15:35:25,890 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 23 was determined to be 126755.1876, output is 126755.1875
+2021-11-16 15:35:25,890 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126358.7196
+2021-11-16 15:35:25,890 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 24 was determined to be 126358.7196, output is 126358.71875
+2021-11-16 15:35:25,890 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126428.8800
+2021-11-16 15:35:25,890 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 25 was determined to be 126428.8800, output is 126428.8828125
+2021-11-16 15:35:25,891 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125983.7264
+2021-11-16 15:35:25,891 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 26 was determined to be 125983.7264, output is 125983.7265625
+2021-11-16 15:35:25,891 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125933.0508
+2021-11-16 15:35:25,891 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 27 was determined to be 125933.0508, output is 125933.0546875
+2021-11-16 15:35:25,891 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126492.7297
+2021-11-16 15:35:25,891 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 28 was determined to be 126492.7297, output is 126492.7265625
+2021-11-16 15:35:25,892 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126269.5368
+2021-11-16 15:35:25,892 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 29 was determined to be 126269.5368, output is 126269.5390625
+2021-11-16 15:35:25,892 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the tryAgain flag was successfully set to false
+2021-11-16 15:35:25,893 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-11-16 15:35:25,894 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-11-16 15:35:25,894 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-11-16 15:35:31,852 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the recieved command was: 126212.2713,126053.4719,126021.7599,126116.9438,126403.3582,126021.7599,126646.2318,126015.4194,126059.8162,126492.7297,126250.4425,126193.1943,126314.1125,126174.1230,126275.9028,126499.1183,125831.8214,126199.5526,126288.6368,126129.6458,126059.8162,126473.5681,126224.9925,125990.0637,126059.8162,126212.2713,126066.1612,126237.7162,126492.7297,125958.3835
+2021-11-16 15:35:31,852 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126212.2713
+2021-11-16 15:35:31,852 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126053.4719
+2021-11-16 15:35:31,852 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126021.7599
+2021-11-16 15:35:31,853 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126116.9438
+2021-11-16 15:35:31,853 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126403.3582
+2021-11-16 15:35:31,853 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126021.7599
+2021-11-16 15:35:31,853 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126646.2318
+2021-11-16 15:35:31,853 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126015.4194
+2021-11-16 15:35:31,854 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126059.8162
+2021-11-16 15:35:31,854 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126492.7297
+2021-11-16 15:35:31,854 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126250.4425
+2021-11-16 15:35:31,854 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126193.1943
+2021-11-16 15:35:31,854 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126314.1125
+2021-11-16 15:35:31,854 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126174.1230
+2021-11-16 15:35:31,855 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126275.9028
+2021-11-16 15:35:31,855 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126499.1183
+2021-11-16 15:35:31,855 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125831.8214
+2021-11-16 15:35:31,855 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126199.5526
+2021-11-16 15:35:31,855 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126288.6368
+2021-11-16 15:35:31,856 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126129.6458
+2021-11-16 15:35:31,856 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126059.8162
+2021-11-16 15:35:31,856 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126473.5681
+2021-11-16 15:35:31,856 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126224.9925
+2021-11-16 15:35:31,856 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125990.0637
+2021-11-16 15:35:31,856 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126059.8162
+2021-11-16 15:35:31,857 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126212.2713
+2021-11-16 15:35:31,857 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126066.1612
+2021-11-16 15:35:31,857 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126237.7162
+2021-11-16 15:35:31,857 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126492.7297
+2021-11-16 15:35:31,857 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125958.3835
+2021-11-16 15:35:31,857 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126212.2713
+2021-11-16 15:35:31,858 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 0 was determined to be 126212.2713, output is 126212.2734375
+2021-11-16 15:35:31,858 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126053.4719
+2021-11-16 15:35:31,858 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 1 was determined to be 126053.4719, output is 126053.46875
+2021-11-16 15:35:31,858 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126021.7599
+2021-11-16 15:35:31,858 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 2 was determined to be 126021.7599, output is 126021.7578125
+2021-11-16 15:35:31,859 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126116.9438
+2021-11-16 15:35:31,859 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 3 was determined to be 126116.9438, output is 126116.9453125
+2021-11-16 15:35:31,859 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126403.3582
+2021-11-16 15:35:31,859 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 4 was determined to be 126403.3582, output is 126403.359375
+2021-11-16 15:35:31,859 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126021.7599
+2021-11-16 15:35:31,859 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 5 was determined to be 126021.7599, output is 126021.7578125
+2021-11-16 15:35:31,860 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126646.2318
+2021-11-16 15:35:31,860 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 6 was determined to be 126646.2318, output is 126646.234375
+2021-11-16 15:35:31,860 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126015.4194
+2021-11-16 15:35:31,860 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 7 was determined to be 126015.4194, output is 126015.421875
+2021-11-16 15:35:31,860 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126059.8162
+2021-11-16 15:35:31,860 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 8 was determined to be 126059.8162, output is 126059.8125
+2021-11-16 15:35:31,861 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126492.7297
+2021-11-16 15:35:31,861 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 9 was determined to be 126492.7297, output is 126492.7265625
+2021-11-16 15:35:31,861 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126250.4425
+2021-11-16 15:35:31,861 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 10 was determined to be 126250.4425, output is 126250.4453125
+2021-11-16 15:35:31,861 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126193.1943
+2021-11-16 15:35:31,861 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 11 was determined to be 126193.1943, output is 126193.1953125
+2021-11-16 15:35:31,862 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126314.1125
+2021-11-16 15:35:31,862 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 12 was determined to be 126314.1125, output is 126314.109375
+2021-11-16 15:35:31,862 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126174.1230
+2021-11-16 15:35:31,862 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 13 was determined to be 126174.1230, output is 126174.125
+2021-11-16 15:35:31,862 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126275.9028
+2021-11-16 15:35:31,863 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 14 was determined to be 126275.9028, output is 126275.90625
+2021-11-16 15:35:31,863 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126499.1183
+2021-11-16 15:35:31,863 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 15 was determined to be 126499.1183, output is 126499.1171875
+2021-11-16 15:35:31,863 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125831.8214
+2021-11-16 15:35:31,863 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 16 was determined to be 125831.8214, output is 125831.8203125
+2021-11-16 15:35:31,863 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126199.5526
+2021-11-16 15:35:31,864 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 17 was determined to be 126199.5526, output is 126199.5546875
+2021-11-16 15:35:31,864 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126288.6368
+2021-11-16 15:35:31,864 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 18 was determined to be 126288.6368, output is 126288.640625
+2021-11-16 15:35:31,864 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126129.6458
+2021-11-16 15:35:31,864 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 19 was determined to be 126129.6458, output is 126129.6484375
+2021-11-16 15:35:31,864 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126059.8162
+2021-11-16 15:35:31,865 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 20 was determined to be 126059.8162, output is 126059.8125
+2021-11-16 15:35:31,865 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126473.5681
+2021-11-16 15:35:31,865 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 21 was determined to be 126473.5681, output is 126473.5703125
+2021-11-16 15:35:31,865 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126224.9925
+2021-11-16 15:35:31,865 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 22 was determined to be 126224.9925, output is 126224.9921875
+2021-11-16 15:35:31,865 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125990.0637
+2021-11-16 15:35:31,866 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 23 was determined to be 125990.0637, output is 125990.0625
+2021-11-16 15:35:31,866 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126059.8162
+2021-11-16 15:35:31,866 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 24 was determined to be 126059.8162, output is 126059.8125
+2021-11-16 15:35:31,866 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126212.2713
+2021-11-16 15:35:31,866 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 25 was determined to be 126212.2713, output is 126212.2734375
+2021-11-16 15:35:31,866 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126066.1612
+2021-11-16 15:35:31,867 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 26 was determined to be 126066.1612, output is 126066.1640625
+2021-11-16 15:35:31,867 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126237.7162
+2021-11-16 15:35:31,867 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 27 was determined to be 126237.7162, output is 126237.71875
+2021-11-16 15:35:31,867 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126492.7297
+2021-11-16 15:35:31,867 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 28 was determined to be 126492.7297, output is 126492.7265625
+2021-11-16 15:35:31,868 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125958.3835
+2021-11-16 15:35:31,868 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 29 was determined to be 125958.3835, output is 125958.3828125
+2021-11-16 15:35:31,868 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the tryAgain flag was successfully set to false
+2021-11-16 15:35:31,868 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-11-16 15:35:50,870 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-11-16 15:35:50,870 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-11-16 15:35:55,758 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the recieved command was: 126021.7599,125812.8589,125768.6354,125939.3830,126174.1230,125800.2205,126339.5984,125680.2813,125793.9022,125863.4381,126053.4719,125510.2335,125749.6920,126072.5068,126091.5474,126142.3504,125869.7634,125592.0510,126047.1282,125787.5845,125711.8221,126066.1612,126167.7672,125933.0508,126231.3540,125990.0637,125711.8221,125680.2813,125730.7542,125914.0579
+2021-11-16 15:35:55,758 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126021.7599
+2021-11-16 15:35:55,758 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125812.8589
+2021-11-16 15:35:55,758 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125768.6354
+2021-11-16 15:35:55,758 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125939.3830
+2021-11-16 15:35:55,759 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126174.1230
+2021-11-16 15:35:55,759 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125800.2205
+2021-11-16 15:35:55,759 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126339.5984
+2021-11-16 15:35:55,759 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125680.2813
+2021-11-16 15:35:55,759 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125793.9022
+2021-11-16 15:35:55,759 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125863.4381
+2021-11-16 15:35:55,760 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126053.4719
+2021-11-16 15:35:55,760 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125510.2335
+2021-11-16 15:35:55,760 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125749.6920
+2021-11-16 15:35:55,760 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126072.5068
+2021-11-16 15:35:55,760 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126091.5474
+2021-11-16 15:35:55,760 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126142.3504
+2021-11-16 15:35:55,760 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125869.7634
+2021-11-16 15:35:55,761 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125592.0510
+2021-11-16 15:35:55,761 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126047.1282
+2021-11-16 15:35:55,761 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125787.5845
+2021-11-16 15:35:55,761 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125711.8221
+2021-11-16 15:35:55,761 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126066.1612
+2021-11-16 15:35:55,761 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126167.7672
+2021-11-16 15:35:55,762 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125933.0508
+2021-11-16 15:35:55,762 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126231.3540
+2021-11-16 15:35:55,762 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125990.0637
+2021-11-16 15:35:55,762 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125711.8221
+2021-11-16 15:35:55,762 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125680.2813
+2021-11-16 15:35:55,762 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125730.7542
+2021-11-16 15:35:55,763 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125914.0579
+2021-11-16 15:35:55,763 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126021.7599
+2021-11-16 15:35:55,763 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 0 was determined to be 126021.7599, output is 126021.7578125
+2021-11-16 15:35:55,763 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125812.8589
+2021-11-16 15:35:55,763 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 1 was determined to be 125812.8589, output is 125812.859375
+2021-11-16 15:35:55,764 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125768.6354
+2021-11-16 15:35:55,764 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 2 was determined to be 125768.6354, output is 125768.6328125
+2021-11-16 15:35:55,764 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125939.3830
+2021-11-16 15:35:55,764 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 3 was determined to be 125939.3830, output is 125939.3828125
+2021-11-16 15:35:55,764 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126174.1230
+2021-11-16 15:35:55,764 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 4 was determined to be 126174.1230, output is 126174.125
+2021-11-16 15:35:55,765 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125800.2205
+2021-11-16 15:35:55,765 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 5 was determined to be 125800.2205, output is 125800.21875
+2021-11-16 15:35:55,765 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126339.5984
+2021-11-16 15:35:55,765 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 6 was determined to be 126339.5984, output is 126339.6015625
+2021-11-16 15:35:55,765 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125680.2813
+2021-11-16 15:35:55,765 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 7 was determined to be 125680.2813, output is 125680.28125
+2021-11-16 15:35:55,766 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125793.9022
+2021-11-16 15:35:55,766 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 8 was determined to be 125793.9022, output is 125793.8984375
+2021-11-16 15:35:55,766 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125863.4381
+2021-11-16 15:35:55,766 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 9 was determined to be 125863.4381, output is 125863.4375
+2021-11-16 15:35:55,766 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126053.4719
+2021-11-16 15:35:55,766 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 10 was determined to be 126053.4719, output is 126053.46875
+2021-11-16 15:35:55,767 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125510.2335
+2021-11-16 15:35:55,767 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 11 was determined to be 125510.2335, output is 125510.234375
+2021-11-16 15:35:55,767 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125749.6920
+2021-11-16 15:35:55,767 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 12 was determined to be 125749.6920, output is 125749.6953125
+2021-11-16 15:35:55,767 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126072.5068
+2021-11-16 15:35:55,768 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 13 was determined to be 126072.5068, output is 126072.5078125
+2021-11-16 15:35:55,768 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126091.5474
+2021-11-16 15:35:55,768 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 14 was determined to be 126091.5474, output is 126091.546875
+2021-11-16 15:35:55,768 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126142.3504
+2021-11-16 15:35:55,768 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 15 was determined to be 126142.3504, output is 126142.3515625
+2021-11-16 15:35:55,769 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125869.7634
+2021-11-16 15:35:55,769 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 16 was determined to be 125869.7634, output is 125869.765625
+2021-11-16 15:35:55,769 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125592.0510
+2021-11-16 15:35:55,769 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 17 was determined to be 125592.0510, output is 125592.0546875
+2021-11-16 15:35:55,769 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126047.1282
+2021-11-16 15:35:55,769 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 18 was determined to be 126047.1282, output is 126047.125
+2021-11-16 15:35:55,770 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125787.5845
+2021-11-16 15:35:55,770 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 19 was determined to be 125787.5845, output is 125787.5859375
+2021-11-16 15:35:55,770 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125711.8221
+2021-11-16 15:35:55,770 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 20 was determined to be 125711.8221, output is 125711.8203125
+2021-11-16 15:35:55,770 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126066.1612
+2021-11-16 15:35:55,770 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 21 was determined to be 126066.1612, output is 126066.1640625
+2021-11-16 15:35:55,770 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126167.7672
+2021-11-16 15:35:55,771 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 22 was determined to be 126167.7672, output is 126167.765625
+2021-11-16 15:35:55,771 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125933.0508
+2021-11-16 15:35:55,771 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 23 was determined to be 125933.0508, output is 125933.0546875
+2021-11-16 15:35:55,771 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126231.3540
+2021-11-16 15:35:55,771 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 24 was determined to be 126231.3540, output is 126231.3515625
+2021-11-16 15:35:55,771 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125990.0637
+2021-11-16 15:35:55,772 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 25 was determined to be 125990.0637, output is 125990.0625
+2021-11-16 15:35:55,772 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125711.8221
+2021-11-16 15:35:55,772 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 26 was determined to be 125711.8221, output is 125711.8203125
+2021-11-16 15:35:55,772 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125680.2813
+2021-11-16 15:35:55,772 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 27 was determined to be 125680.2813, output is 125680.28125
+2021-11-16 15:35:55,772 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125730.7542
+2021-11-16 15:35:55,773 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 28 was determined to be 125730.7542, output is 125730.7578125
+2021-11-16 15:35:55,773 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125914.0579
+2021-11-16 15:35:55,773 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 29 was determined to be 125914.0579, output is 125914.0546875
+2021-11-16 15:35:55,773 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the tryAgain flag was successfully set to false
+2021-11-16 15:35:55,773 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command
+2021-11-16 15:36:14,774 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - resetting input buffer
+2021-11-16 15:36:14,774 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command: 0
+2021-11-16 15:36:19,682 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the recieved command was: 125958.3835,125604.6478,125749.6920,125610.9471,125378.2911,125977.3897,125447.3692,125648.7563,125636.1507,125914.0579,125711.8221,125705.5127,125971.0537,125686.5882,125667.6694,125353.1905,125686.5882,125952.0494,125491.3676,125977.3897,125579.4568,125831.8214,125743.3787,125334.3717,125768.6354,125604.6478,126066.1612,125888.7429,125661.3644,125365.7395
+2021-11-16 15:36:19,683 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125958.3835
+2021-11-16 15:36:19,683 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125604.6478
+2021-11-16 15:36:19,684 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125749.6920
+2021-11-16 15:36:19,684 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125610.9471
+2021-11-16 15:36:19,685 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125378.2911
+2021-11-16 15:36:19,685 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125977.3897
+2021-11-16 15:36:19,685 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125447.3692
+2021-11-16 15:36:19,686 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125648.7563
+2021-11-16 15:36:19,686 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125636.1507
+2021-11-16 15:36:19,687 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125914.0579
+2021-11-16 15:36:19,687 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125711.8221
+2021-11-16 15:36:19,687 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125705.5127
+2021-11-16 15:36:19,687 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125971.0537
+2021-11-16 15:36:19,688 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125686.5882
+2021-11-16 15:36:19,688 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125667.6694
+2021-11-16 15:36:19,688 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125353.1905
+2021-11-16 15:36:19,688 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125686.5882
+2021-11-16 15:36:19,688 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125952.0494
+2021-11-16 15:36:19,688 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125491.3676
+2021-11-16 15:36:19,689 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125977.3897
+2021-11-16 15:36:19,689 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125579.4568
+2021-11-16 15:36:19,689 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125831.8214
+2021-11-16 15:36:19,689 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125743.3787
+2021-11-16 15:36:19,689 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125334.3717
+2021-11-16 15:36:19,690 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125768.6354
+2021-11-16 15:36:19,690 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125604.6478
+2021-11-16 15:36:19,690 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 126066.1612
+2021-11-16 15:36:19,690 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125888.7429
+2021-11-16 15:36:19,690 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125661.3644
+2021-11-16 15:36:19,690 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - 125365.7395
+2021-11-16 15:36:19,691 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125958.3835
+2021-11-16 15:36:19,691 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 0 was determined to be 125958.3835, output is 125958.3828125
+2021-11-16 15:36:19,691 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125604.6478
+2021-11-16 15:36:19,691 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 1 was determined to be 125604.6478, output is 125604.6484375
+2021-11-16 15:36:19,691 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125749.6920
+2021-11-16 15:36:19,691 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 2 was determined to be 125749.6920, output is 125749.6953125
+2021-11-16 15:36:19,692 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125610.9471
+2021-11-16 15:36:19,692 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 3 was determined to be 125610.9471, output is 125610.9453125
+2021-11-16 15:36:19,692 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125378.2911
+2021-11-16 15:36:19,692 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 4 was determined to be 125378.2911, output is 125378.2890625
+2021-11-16 15:36:19,692 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125977.3897
+2021-11-16 15:36:19,693 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 5 was determined to be 125977.3897, output is 125977.390625
+2021-11-16 15:36:19,693 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125447.3692
+2021-11-16 15:36:19,693 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 6 was determined to be 125447.3692, output is 125447.3671875
+2021-11-16 15:36:19,693 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125648.7563
+2021-11-16 15:36:19,693 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 7 was determined to be 125648.7563, output is 125648.7578125
+2021-11-16 15:36:19,693 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125636.1507
+2021-11-16 15:36:19,694 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 8 was determined to be 125636.1507, output is 125636.1484375
+2021-11-16 15:36:19,694 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125914.0579
+2021-11-16 15:36:19,694 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 9 was determined to be 125914.0579, output is 125914.0546875
+2021-11-16 15:36:19,694 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125711.8221
+2021-11-16 15:36:19,694 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 10 was determined to be 125711.8221, output is 125711.8203125
+2021-11-16 15:36:19,694 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125705.5127
+2021-11-16 15:36:19,695 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 11 was determined to be 125705.5127, output is 125705.515625
+2021-11-16 15:36:19,695 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125971.0537
+2021-11-16 15:36:19,695 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 12 was determined to be 125971.0537, output is 125971.0546875
+2021-11-16 15:36:19,695 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125686.5882
+2021-11-16 15:36:19,695 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 13 was determined to be 125686.5882, output is 125686.5859375
+2021-11-16 15:36:19,695 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125667.6694
+2021-11-16 15:36:19,696 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 14 was determined to be 125667.6694, output is 125667.671875
+2021-11-16 15:36:19,696 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125353.1905
+2021-11-16 15:36:19,696 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 15 was determined to be 125353.1905, output is 125353.1875
+2021-11-16 15:36:19,696 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125686.5882
+2021-11-16 15:36:19,696 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 16 was determined to be 125686.5882, output is 125686.5859375
+2021-11-16 15:36:19,696 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125952.0494
+2021-11-16 15:36:19,697 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 17 was determined to be 125952.0494, output is 125952.046875
+2021-11-16 15:36:19,697 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125491.3676
+2021-11-16 15:36:19,697 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 18 was determined to be 125491.3676, output is 125491.3671875
+2021-11-16 15:36:19,697 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125977.3897
+2021-11-16 15:36:19,697 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 19 was determined to be 125977.3897, output is 125977.390625
+2021-11-16 15:36:19,698 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125579.4568
+2021-11-16 15:36:19,698 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 20 was determined to be 125579.4568, output is 125579.453125
+2021-11-16 15:36:19,698 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125831.8214
+2021-11-16 15:36:19,698 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 21 was determined to be 125831.8214, output is 125831.8203125
+2021-11-16 15:36:19,698 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125743.3787
+2021-11-16 15:36:19,698 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 22 was determined to be 125743.3787, output is 125743.375
+2021-11-16 15:36:19,699 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125334.3717
+2021-11-16 15:36:19,699 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 23 was determined to be 125334.3717, output is 125334.375
+2021-11-16 15:36:19,699 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125768.6354
+2021-11-16 15:36:19,699 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 24 was determined to be 125768.6354, output is 125768.6328125
+2021-11-16 15:36:19,699 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125604.6478
+2021-11-16 15:36:19,699 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 25 was determined to be 125604.6478, output is 125604.6484375
+2021-11-16 15:36:19,700 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 126066.1612
+2021-11-16 15:36:19,700 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 26 was determined to be 126066.1612, output is 126066.1640625
+2021-11-16 15:36:19,700 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125888.7429
+2021-11-16 15:36:19,700 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 27 was determined to be 125888.7429, output is 125888.7421875
+2021-11-16 15:36:19,700 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125661.3644
+2021-11-16 15:36:19,700 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 28 was determined to be 125661.3644, output is 125661.3671875
+2021-11-16 15:36:19,701 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - looking at 125365.7395
+2021-11-16 15:36:19,701 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - Channel 29 was determined to be 125365.7395, output is 125365.7421875
+2021-11-16 15:36:19,701 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - the tryAgain flag was successfully set to false
+2021-11-16 15:36:19,701 [6] INFO  MesoMatDemoApp.SerialCommunicator [(null)] - sending command

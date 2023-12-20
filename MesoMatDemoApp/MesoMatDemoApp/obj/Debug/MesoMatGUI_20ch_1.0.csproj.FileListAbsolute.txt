@@ -1,0 +1,86 @@
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\MesoMatGUI_20ch_1.0.exe.config
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\MesoMatGUI_20ch_1.0.exe
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\MesoMatGUI_20ch_1.0.pdb
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\CircularProgressBar.dll
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.dll
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.Geared.dll
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\log4net.dll
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\WinFormAnimation.dll
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\CircularProgressBar.xml
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.pdb
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.xml
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\log4net.xml
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatDemoApp.Dialog.resources
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatDemoApp.MainWindow.resources
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatDemoApp.Properties.Resources.resources
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatDemoApp.WelcomeWindow.resources
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.csproj.GenerateResource.cache
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.csproj.CoreCompileInputs.cache
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.csproj.CopyComplete
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.exe
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.pdb
+C:\Users\Duncan\mesomatGitRepos\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.csprojAssemblyReference.cache
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\MesoMatGUI_20ch_1.0.exe.config
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\MesoMatGUI_20ch_1.0.exe
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\MesoMatGUI_20ch_1.0.pdb
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\CircularProgressBar.dll
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.dll
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.Geared.dll
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\log4net.dll
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\WinFormAnimation.dll
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\CircularProgressBar.xml
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.pdb
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.xml
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\log4net.xml
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.csproj.AssemblyReference.cache
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatDemoApp.Dialog.resources
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatDemoApp.MainWindow.resources
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatDemoApp.Properties.Resources.resources
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatDemoApp.WelcomeWindow.resources
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.csproj.GenerateResource.cache
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.csproj.CoreCompileInputs.cache
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.csproj.CopyComplete
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.exe
+C:\Users\ginge\Desktop\Mesomat Stuff 1\GUI_20_Channels\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.pdb
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.csproj.AssemblyReference.cache
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.exe
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.pdb
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\MesoMatGUI_20ch_1.0.exe.config
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\MesoMatGUI_20ch_1.0.exe
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\MesoMatGUI_20ch_1.0.pdb
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\CircularProgressBar.dll
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\Ivi.Visa.dll
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.dll
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.Geared.dll
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\log4net.dll
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\WinFormAnimation.dll
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\CircularProgressBar.xml
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\Ivi.Visa.xml
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.pdb
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.xml
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\bin\Debug\log4net.xml
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatDemoApp.Dialog.resources
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatDemoApp.MainWindow.resources
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatDemoApp.Properties.Resources.resources
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatDemoApp.WelcomeWindow.resources
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.csproj.GenerateResource.cache
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.csproj.CoreCompileInputs.cache
+C:\Users\Szkopek Group\source\repos\MesoMatDemoApp\MesoMatDemoApp\obj\Debug\MesoMatGUI_20ch_1.0.csproj.CopyComplete
